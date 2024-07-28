@@ -1,0 +1,70 @@
+[   
+  {
+     "id": "1",
+     "artist":"A. R. Rahman",
+    "title": "kannamma unna",
+    "movie": "Ispade Rajavum Idhaya Raniyum(Anirudh Ravichander)",
+    "image": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/Zxb2EV0JW9/size_m_1548564493.webp"
+  },
+  {
+    "id": "2",
+    "title": "Oh Penne",
+    "movie": "Vanakkam Chennai(Anirudh Ravichander, Vishal Dadlani)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKjGCKzWQC3cOXLccIL6UKbPhJJBQqKhdGjgQ6djUGw&s"
+   
+    
+  },
+  {
+    "id": "3",
+    "title": "Don'u Don'u Don'u",
+    "movie": "Maari( Alisha Thomas and Anirudh Ravichander)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDkcywGNJD4IXMhZQJHegLCAsBtCX4eo_g-oA4SiKSw&s"
+     
+    
+  },
+  {
+    "id": "4",
+    "title": "Kokkarakko",
+    "movie": "Ghilli(Udit Narayan, Sujatha)",
+    "image": "https://pbs.twimg.com/media/FiAn4J_UcAA2f34.jpg"
+   
+    
+  },
+  {
+    "id": "5",
+    "title": "Sirukki Vaasam",
+    "movie": " Kodi(Anand Aravindakshan,Santhosh Narayanan,Shweta Mohan)",
+    "image": "https://i.ytimg.com/vi/O4OqlkXC4PQ/maxresdefault.jpg" 
+    
+  },
+  {
+    "id": "6",
+    "title": "Maruvaarthai",
+    "movie": "Enai Noki Paayum Thota (Sid Sriram)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5nHOrV1NPCUap3seKwl_N1MypaSvV21sly47W14RJQ&s" 
+    
+  },
+  {
+    "id": "7",
+    "title": "Thaarame Thaarame",
+    "movie": "Kadaram Kondan(Sid Sriram)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1c4UuvWWs1H0Lp1xB4Gi0YorIbPU4xbibTvwk6CPFQ&s" 
+    
+  },
+  {
+    "id": "8",
+    "title": "Kandaangi Kandaangi",
+    "movie": "Jilla( Shreya Ghoshal and Vijay)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKT_DPBqEmYWPixKWN63bTkctq-Fy48oblt4E0WLkFcA&s" 
+    
+  },
+  {
+    "id": "9",
+    "title": "Adiyae Kolluthey",
+    "movie": "Vaaranam Aayiram(Krish, Benny Dayal, Shruti Haasan)",
+    "image": "https://i.ytimg.com/vi/v_uZjRVQXPU/maxresdefault.jpg" 
+    
+  }
+   
+] 
+

@@ -1,0 +1,129 @@
+[
+  {
+    "name": "A. R. Rahman",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/ar-raman-birthday-fansjpg-013213-16x9_0.jpg?VersionId=8IdNql2sscklQZKA_KJCooG3f5taeFk_",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "S. P. B ",
+    "image": "https://static01.nyt.com/images/2020/10/07/obituaries/07Balasubrahmanyam/merlin_177908508_8acecf75-fa13-4ca1-a20a-aa656bd3bcd2-superJumbo.jpg",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shreya Ghoshal",
+    "image": "https://i.scdn.co/image/ab6761610000517436a7262247318ff0f1ad00da",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "K. S. Chithra",
+    "image": "https://pbs.twimg.com/profile_images/1559427368397185025/xlSQx-3v_400x400.jpg",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sid Sriram",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkPKFiOkk3X8XTygWBI-usIbzGiPJSXB6jI-lWu9469sbaGniww3syR4Nn4ioGVB-FpA&usqp=CAU",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anirudh Ravichander",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gOqCxPVEJe6RA1FzXOQfCvONb_h0IQ2Zmnu1d6ic_KPJP9QMVsXPSuRfhdQ0bsR5e3Y&usqp=CAU",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Ilaiyaraaja",
+    "image": "https://lh3.googleusercontent.com/QxbV6wK_wcQWcBY9rBicZlsl1-gX5M6nGjfNN3BTzgknhaSJ6yhnHW7NmF4dTx0Ch9g9-VTD6YUD2crW=w544-h544-p-l90-rj",
+    "songs": [
+      {
+        "title": "Adheeraa",
+        "movie": "Cobra",
+        "image": "https://i.ytimg.com/vi/ZQsI6m66Xdo/maxresdefault.jpg",
+        "audio": "/src/audio/Adheeraa.mp3"
+      },
+      {
+        "title": "Nenjinile Nenjinile",
+        "movie": "Dil Se",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1d5a8cc40acbafc3673331d",
+        "audio": "/src/audio/Nenjinile Nenjinile.mp3"
+      }
+    ]
+  }
+
+]
